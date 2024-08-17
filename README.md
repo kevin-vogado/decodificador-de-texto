@@ -1,0 +1,1 @@
+# javascript-decodificador-de-texto
