@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="styles/style.css" />
+    <title>Decodificador de Texto</title>
+  </head>
+  <body>
+    <main class="main__container">
+      <div class="main__inputSendText">
+        <textarea class="inputSendText__inputText" name="inputText" id="inputText" placeholder="Olá, digite o seu texto para começarmos :)" maxlength="200"></textarea>
+        <div class="main__alertSend">
+          <div class="main__alertText">
+            <img src="assets/bi_exclamation-circle-fill.svg" alt="Atenção" />
+            <p class="alertText__alertText" id="alertText">
+              Apenas letras minúsculas e sem acento
+            </p>
+          </div>
+          <div class="main__sendButtons">
+            <button class="buttons__global" id="encryptText" onclick="encryptText()">
+              Criptografar
+            </button>
+            <button class="buttons__global" onclick="descryptText()">
+              Descriptografar
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="main__outputText">
+        <img
+          id="notfoundText"
+          src="assets/image_hidden.PNG"
+          alt="Nenhuma mensagem encontrada"
+        />
+        <p class="outputText__outText" id="outText"></p>
+        <button class="buttons__global" id="copyText" onclick="copyText()">
+          Copiar
+        </button>
+      </div>
+    </main>
+  </body>
+</html>
