@@ -17,3 +17,16 @@ O Decodificador de Texto é uma aplicação feita com JavaScript puro, tendo reg
 - `Funcionalidade 6` redimensionar o layout da aplicação para ser adaptável.
 
 ![GIF que mostra frase em texto sendo criptografada, depois o texto criptografado sendo copiado e por fim, o texto sendo descriptografado](https://github.com/user-attachments/assets/53614664-28bb-47b9-a9cf-007dd21ced77)
+
+# Acessar e Baixar o Projeto
+
+[Clique aqui para acessar o projeto em funcionamento](https://kevin-vogado.github.io/decodificador-de-texto/).
+
+Para baixar o projeto em sua máquina, execute `git clone` com o link do repositório remoto `https://github.com/kevin-vogado/decodificador-de-texto.git`.
+
+# Técnicas e Tecnologias Utilizadas
+
+- `JavaScript`
+- `REGEX`
+- `HTML5`
+- `CSS3`
