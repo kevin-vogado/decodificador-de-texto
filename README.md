@@ -7,6 +7,8 @@
 # Descrição do Projeto 
 O Decodificador de Texto é uma aplicação feita com JavaScript puro, tendo regex que lida com caracteres especiais, letras maiúsculas e, a criptografia e a descriptografia das palavras ou frases inseridas na caixa de entrada. A estrutura da página é elaborada com HTML5 e estilizada com CSS3. É possível também utilizar a aplicação em dispositivos de largura inferior a um desktop/laptop como em tablets e celulares.
 
+O Decodificador de Texto tem a finalidade de codificar e decodificar texto. 
+
 # Funcionalidades do Projeto
 - `Funcionalidade 1` criptografar palavras ou frases de até 500 caracteres.
 - `Funcionalidade 1.2` informar ao usuário limite para criptografar palavras ou frases acima de 500 caracteres.
