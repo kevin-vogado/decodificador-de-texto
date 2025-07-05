@@ -11,12 +11,12 @@ O Decodificador de Texto tem a finalidade de codificar e decodificar texto.
 
 # Funcionalidades do Projeto
 - `Funcionalidade 1` criptografar palavras ou frases de até 500 caracteres.
-- `Funcionalidade 1.2` informar ao usuário limite para criptografar palavras ou frases acima de 500 caracteres.
+- `Funcionalidade 1.2` informar ao usuário o limite para criptografar palavras ou frases acima de 500 caracteres.
 - `Funcionalidade 2` descriptografar palavras ou frases de até 500 caracteres.
 - `Funcionalidade 3` coibir ao usuário que insira palavras ou frases com caracteres especiais ou letras maiúsculas. 
 - `Funcionalidade 4` limpar caixa de entrada após palavras ou frases criptografadas/descriptografadas.
 - `Funcionalidade 5` copiar resultado da criptografia/descriptografia. 
-- `Funcionalidade 6` redimensionar o layout da aplicação para ser adaptável.
+- `Funcionalidade 6` redimensionar o layout da aplicação para ser adaptável a desktop, laptop, tablet e telefone celular.
 
 ![GIF que mostra frase em texto sendo criptografada, depois o texto criptografado sendo copiado e por fim, o texto sendo descriptografado](https://github.com/user-attachments/assets/53614664-28bb-47b9-a9cf-007dd21ced77)
 
