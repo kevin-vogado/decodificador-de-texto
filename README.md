@@ -20,6 +20,8 @@ O Decodificador de Texto tem a finalidade de codificar e decodificar texto.
 
 ![GIF que mostra frase em texto sendo criptografada, depois o texto criptografado sendo copiado e por fim, o texto sendo descriptografado](https://github.com/user-attachments/assets/53614664-28bb-47b9-a9cf-007dd21ced77)
 
+![GIF que mostra a informação que aparece para o usuário ao criptografar acima de 500 caracteres](https://github.com/user-attachments/assets/053a2b6d-e83f-4f44-b4c2-27b7469ad285
+
 # Acessar e Baixar o Projeto
 
 [Clique aqui para acessar o projeto em funcionamento](https://kevin-vogado.github.io/decodificador-de-texto/).
